@@ -11,4 +11,6 @@ Click "Clear" to clear cache.
 ...
 
 Sample:
+
+
 <img src="https://github.com/KazZey0/PassiveSpider/blob/main/snipshot.png" width="600" height="700" /><br/>
